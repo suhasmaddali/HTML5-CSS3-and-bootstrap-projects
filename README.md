@@ -1,1 +1,1 @@
-# HTML5-CSS3-and-bootstrap-projects
+# HTML5, CSS3 and Bootstrap Projects
